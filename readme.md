@@ -26,27 +26,7 @@ Here are some useful resources I’ve created for interview prep and technical l
 ### 🔗 Connect with Me
 - 📧 Email: valsaanil85@gmail.com
 - 📍 Location: Hyderabad, India
-- 🌐 LinkedIn: [linkedin.com/in/anilvln](https://linkedin.com/in/anilvln)
+- 🌐 LinkedIn: [linkedin.com/in/anil-valsa](https://linkedin.com/in/anil-valsa)
 
 Thanks for visiting my profile! ⭐️ Feel free to explore the repositories and contribute.
----
-
-<p align="center">
-  <a href="https://github.com/anilvn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/anilvn/spring-boot-interview-questions?style=social" alt="GitHub Stars" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/anil-valsa/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ <strong>Please consider giving it a ⭐️ to show your support!</strong>
-  <a href="https://github.com/anilvn/" target="_blank" rel="noopener noreferrer">Click here</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <strong>Let’s connect professionally:</strong>
-  <a href="https://www.linkedin.com/in/anil-valsa/" target="_blank" rel="noopener noreferrer">Anil Valsa on LinkedIn</a>
-</p>
-
 ---
