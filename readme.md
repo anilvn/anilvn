@@ -5,20 +5,32 @@
 🔍 Passionate about building scalable backend systems and sharing knowledge with the community.
 
 ---
-
 ### 📘 My Repositories
 
 Here are some useful resources I’ve created for interview prep and technical learning:
 
-- 🔹 [Java Interview Questions](https://github.com/anilvln/Java-Interview-Questions)
-- 🔹 [Spring Boot Interview Questions](https://github.com/anilvln/spring-boot-interview-questions)
-- 🔹 [System Design Resources](https://github.com/anilvln/system-design-resources)
-- 🔹 [Java Basics](https://github.com/anilvln/java-basics)
-- 🔹 [Spring Boot Notes](https://github.com/anilvln/spring-boot-notes)
-- 🔹 [Angular Notes](https://github.com/anilvln/angular-notes)
-- 🔹 [Angular Interview Questions](https://github.com/anilvln/angular-interview-questions)
-- 🔹 [Design Patterns](https://github.com/anilvln/design-patterns)
-- 🔹 [Miscellaneous Resources](https://github.com/anilvln/misc)
+<table>
+  <tr>
+    <td>🔹 <a href="https://github.com/anilvn/Java-Interview-Questions">Java Interview Questions</a></td>
+    <td>🔹 <a href="https://github.com/anilvn/spring-boot-interview-questions">Spring Boot Interview Questions</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://github.com/anilvn/system-design-resources">System Design Resources</a></td>
+    <td>🔹 <a href="https://github.com/anilvn/java-basics">Java Basics</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://github.com/anilvn/spring-boot-notes">Spring Boot Notes</a></td>
+    <td>🔹 <a href="https://github.com/anilvn/angular-notes">Angular Notes</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://github.com/anilvn/angular-interview-questions">Angular Interview Questions</a></td>
+    <td>🔹 <a href="https://github.com/anilvn/design-patterns">Design Patterns</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://github.com/anilvn/misc">Miscellaneous Resources</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -28,3 +40,24 @@ Here are some useful resources I’ve created for interview prep and technical l
 - 🌐 LinkedIn: [linkedin.com/in/anilvln](https://linkedin.com/in/anilvln)
 
 Thanks for visiting my profile! ⭐️ Feel free to explore the repositories and contribute.
+---
+
+<p align="center">
+  <a href="https://github.com/anilvn/spring-boot-interview-questions" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/stars/anilvn/spring-boot-interview-questions?style=social" alt="GitHub Stars" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anil-valsa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ <strong>Please consider giving it a ⭐️ to show your support!</strong>
+  <a href="https://github.com/anilvn/spring-boot-interview-questions" target="_blank" rel="noopener noreferrer">Click here</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <strong>Let’s connect professionally:</strong>
+  <a href="https://www.linkedin.com/in/anil-valsa/" target="_blank" rel="noopener noreferrer">Anil Valsa on LinkedIn</a>
+</p>
+
+---
