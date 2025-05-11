@@ -8,29 +8,46 @@
 ### 📘 My Repositories
 
 Here are some useful resources I’ve created for interview prep and technical learning:
+### 📘 My Repositories
 
-<table>
-  <tr>
-    <td>🔹 <a href="https://github.com/anilvn/Java-Interview-Questions">Java Interview Questions</a></td>
-    <td>🔹 <a href="https://github.com/anilvn/spring-boot-interview-questions">Spring Boot Interview Questions</a></td>
-  </tr>
-  <tr>
-    <td>🔹 <a href="https://github.com/anilvn/system-design-resources">System Design Resources</a></td>
-    <td>🔹 <a href="https://github.com/anilvn/java-basics">Java Basics</a></td>
-  </tr>
-  <tr>
-    <td>🔹 <a href="https://github.com/anilvn/spring-boot-notes">Spring Boot Notes</a></td>
-    <td>🔹 <a href="https://github.com/anilvn/angular-notes">Angular Notes</a></td>
-  </tr>
-  <tr>
-    <td>🔹 <a href="https://github.com/anilvn/angular-interview-questions">Angular Interview Questions</a></td>
-    <td>🔹 <a href="https://github.com/anilvn/design-patterns">Design Patterns</a></td>
-  </tr>
-  <tr>
-    <td>🔹 <a href="https://github.com/anilvn/misc">Miscellaneous Resources</a></td>
-    <td></td>
-  </tr>
-</table>
+Here are some useful resources I’ve created for interview prep and technical learning:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Java Interview Questions</a>
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Spring Boot Interview Questions</a>
+  </div>
+
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">System Design Resources</a>
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Java Basics</a>
+  </div>
+
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Spring Boot Notes</a>
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Angular Notes</a>
+  </div>
+
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Angular Interview Questions</a>
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Design Patterns</a>
+  </div>
+
+  <div style="flex: 0 0 48%; margin-bottom: 8px;">
+    🔹 <a href="#">Miscellaneous Resources</a>
+  </div>
+
+</div>
+
 
 ---
 
