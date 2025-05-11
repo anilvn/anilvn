@@ -28,5 +28,4 @@ Here are some useful resources I’ve created for interview prep and technical l
 - 📍 Location: Hyderabad, India
 - 🌐 LinkedIn: [linkedin.com/in/anil-valsa](https://linkedin.com/in/anil-valsa)
 
-Thanks for visiting my profile! ⭐️ Feel free to explore the repositories and contribute.
----
+
